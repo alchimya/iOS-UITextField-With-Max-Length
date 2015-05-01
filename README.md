@@ -4,7 +4,7 @@ A subclass of UITextField with a maxLength property
 
 # How to use
 
-```objective-c
+```objectivec
  
   //import header file
   #import "L3SDKTextField.h"
