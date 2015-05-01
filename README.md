@@ -15,7 +15,6 @@ A subclass of UITextField with a maxLength property
   @end
  
  //set maxLenght and (if you want) delegate properties
- 
  - (void)viewDidLoad {
     [super viewDidLoad];
     //set delegate and maxLength
