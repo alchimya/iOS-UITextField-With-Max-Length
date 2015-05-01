@@ -14,7 +14,7 @@ A subclass of UITextField with a maxLength property
     @property (weak, nonatomic) IBOutlet L3SDKTextField *myTextField;
   @end
  
- //set maxLenght and (if you want) delegate properties
+ //set maxLength and (if you want) delegate properties
  - (void)viewDidLoad {
     [super viewDidLoad];
     //set delegate and maxLength
